@@ -1,0 +1,22 @@
+# RestAPI
+fastapi
+uvicorn
+python-multipart
+jinja2
+
+# ONNX e inferência
+onnx
+onnxruntime
+transformers  
+numpy
+
+# OCR e manipulação de documentos
+pytesseract
+pillow
+python-docx
+pymupdf
+openpyxl
+pandas
+
+# Utilitários
+tqdm
