@@ -4,6 +4,9 @@ uvicorn
 python-multipart
 jinja2
 
+# Deep Learning & Transformers
+torch
+
 # ONNX e inferência
 onnx
 onnxruntime
@@ -20,3 +23,6 @@ pandas
 
 # Utilitários
 tqdm
+
+# Others
+scipy
